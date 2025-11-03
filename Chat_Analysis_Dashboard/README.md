@@ -85,7 +85,6 @@ Run the Streamlit app:
 
 streamlit run app.py
 
-
 Open the app:
 Your browser will automatically open to http://localhost:8501.
 
